@@ -1,6 +1,6 @@
 botUsername="sheetsApi_bot";
 botName="sheetsApiExample";
-botId="2013992015:AAHS_W1x_utmY_LkZbiKLvyc-EInG5Bi3tk";
+botId="2013992015:";
 botLink="https://api.telegram.org/bot"+botId;
 deploy_id="AKfycbzGJB8ZuZh0f6PCyYOPqsd04MNbtv_aMTa4rbQ0kJjqe2eYRUWuaVQhy1NKrLfu4KF7"
 App_link="https://script.google.com/macros/s/"+deploy_id+"/exec"
